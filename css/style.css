@@ -122,23 +122,12 @@ body {
     width: 250px
 }
 
-.registerp {
+.registerp, .registerh1{
     margin-left: 25px;
 }
 
-.registerh1 {
-    margin-left: 25px;
-}
-
-.registerlogin {
+.registerlogin, .registerlogin a{
     text-align: center;
-    font-size: 15px;
-    color: #555;
-    transition: all linear 300ms;
-}
-
-.registerlogin a {
-    display: inline;
     font-size: 15px;
     color: #555;
     transition: all linear 300ms;
